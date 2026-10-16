@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{990EF065-C411-8DB8-26CA-8EB0EA8A8B58}|TP4\\TP4.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Adventure Works DW2020.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{990EF065-C411-8DB8-26CA-8EB0EA8A8B58}|TP4\\TP4.dwproj|solutionrelative:TP4\\Adventure Works DW2020.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EF065-C411-8DB8-26CA-8EB0EA8A8B58}|TP4\\TP4.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{990EF065-C411-8DB8-26CA-8EB0EA8A8B58}|TP4\\TP4.dwproj|solutionrelative:TP4\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{990EF065-C411-8DB8-26CA-8EB0EA8A8B58}|TP4\\TP4.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Adventure Works DW2020.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{990EF065-C411-8DB8-26CA-8EB0EA8A8B58}|TP4\\TP4.dwproj|solutionrelative:TP4\\Adventure Works DW2020.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Adventure Works DW2020.dsv [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Adventure Works DW2020.dsv",
+              "RelativeDocumentMoniker": "TP4\\Adventure Works DW2020.dsv",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Adventure Works DW2020.dsv [Conception]",
+              "RelativeToolTip": "TP4\\Adventure Works DW2020.dsv [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T15:31:32.621Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Product.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Dim Product.dim",
+              "RelativeDocumentMoniker": "TP4\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Dim Product.dim [Conception]",
+              "RelativeToolTip": "TP4\\Dim Product.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T15:29:18.398Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Adventure Works DW2020.cube [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Adventure Works DW2020.cube",
+              "RelativeDocumentMoniker": "TP4\\Adventure Works DW2020.cube",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\TP4\\TP4\\Adventure Works DW2020.cube [Conception]",
+              "RelativeToolTip": "TP4\\Adventure Works DW2020.cube [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-27T15:17:22.963Z",
+              "EditorCaption": " [Conception]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

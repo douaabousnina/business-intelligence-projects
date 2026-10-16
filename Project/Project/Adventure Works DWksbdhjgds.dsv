@@ -1,0 +1,122 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="44abeacd-2ae9-4d0e-b92a-95acb85e9570" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Adventure Works DWksbdhjgds</ID>
+  <Name>Adventure Works DWksbdhjgds</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>AdventureWorksDS</DataSourceID>
+  <Schema>
+    <xs:schema id="Adventure_x0020_Works_x0020_DWksbdhjgds" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Adventure_x0020_Works_x0020_DWksbdhjgds" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="b17095c4-818f-4ac7-b2f7-84ca59625d8e">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="dbo_FactAdditionalInternationalProductDescription" msprop:DbTableName="FactAdditionalInternationalProductDescription" msprop:FriendlyName="FactAdditionalInternationalProductDescription" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="3730c354-21c2-431a-9e17-8154dc998080">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="ProductKey" msprop:FriendlyName="ProductKey" msprop:DbColumnName="ProductKey" msprop:design-time-name="a6b8b4a9-9e6c-4b25-b86f-23e7c4e16268" type="xs:int" />
+                  <xs:element name="CultureName" msprop:FriendlyName="CultureName" msprop:DbColumnName="CultureName" msprop:design-time-name="72a5dfae-7bfe-4f7d-96af-b194058580d6">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="ProductDescription" msprop:FriendlyName="ProductDescription" msprop:DbColumnName="ProductDescription" msprop:design-time-name="0f1b9064-8f90-4b9d-bdca-2ba43d0b24f8" type="xs:string" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DimCurrency" msprop:DbTableName="DimCurrency" msprop:FriendlyName="DimCurrency" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="d949b975-0f11-4428-ba68-de6d93e6be81">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="CurrencyKey" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:FriendlyName="CurrencyKey" msprop:DbColumnName="CurrencyKey" msprop:design-time-name="cfc026be-1c49-4069-a40c-6b3fed8d1cb3" type="xs:int" />
+                  <xs:element name="CurrencyAlternateKey" msprop:FriendlyName="CurrencyAlternateKey" msprop:DbColumnName="CurrencyAlternateKey" msprop:design-time-name="1f786923-a509-487c-9047-56145ad51eef">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="3" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="CurrencyName" msprop:FriendlyName="CurrencyName" msprop:DbColumnName="CurrencyName" msprop:design-time-name="a89b0a12-590e-4b9b-9b5e-2f021c613439">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="dbo_DimDepartmentGroup" msprop:DbTableName="DimDepartmentGroup" msprop:FriendlyName="DimDepartmentGroup" msprop:TableType="Table" msprop:DbSchemaName="dbo" msprop:design-time-name="09ab4862-fd90-4d51-a113-a979bbf82d04">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="DepartmentGroupKey" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:FriendlyName="DepartmentGroupKey" msprop:DbColumnName="DepartmentGroupKey" msprop:design-time-name="90fc08fb-f9a2-4575-847d-a4f0aa6f00e5" type="xs:int" />
+                  <xs:element name="ParentDepartmentGroupKey" msprop:FriendlyName="ParentDepartmentGroupKey" msprop:DbColumnName="ParentDepartmentGroupKey" msprop:design-time-name="dde0e458-f3ce-4dc8-b300-fb37bd2d00c0" type="xs:int" minOccurs="0" />
+                  <xs:element name="DepartmentGroupName" msprop:FriendlyName="DepartmentGroupName" msprop:DbColumnName="DepartmentGroupName" msprop:design-time-name="17ccbfdb-601a-4436-8ba9-cc4a211cf11e" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="50" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_FactAdditionalInternationalProductDescription" />
+          <xs:field xpath="ProductKey" />
+          <xs:field xpath="CultureName" />
+        </xs:unique>
+        <xs:unique name="dbo_DimCurrency_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimCurrency" />
+          <xs:field xpath="CurrencyKey" />
+        </xs:unique>
+        <xs:unique name="dbo_DimDepartmentGroup_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//dbo_DimDepartmentGroup" />
+          <xs:field xpath="DepartmentGroupKey" />
+        </xs:unique>
+        <xs:keyref name="FK_DimDepartmentGroup_DimDepartmentGroup" refer="dbo_DimDepartmentGroup_Constraint1">
+          <xs:selector xpath=".//dbo_DimDepartmentGroup" />
+          <xs:field xpath="ParentDepartmentGroupKey" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Adventure_x0020_Works_x0020_DWksbdhjgds xmlns="" />
+  </Schema>
+</DataSourceView>

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\AdventureWorksC.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|solutionrelative:Project\\AdventureWorksC.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Sales Territory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|solutionrelative:Project\\Dim Sales Territory.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|solutionrelative:Project\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Reseller.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|solutionrelative:Project\\Dim Reseller.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|solutionrelative:Project\\Dim Product.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\AdventureWorksDSV.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{E72E6CF6-24C3-77C9-2EF5-54BA7172657D}|Project\\Project.dwproj|solutionrelative:Project\\AdventureWorksDSV.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdventureWorksC.cube [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\AdventureWorksC.cube",
+              "RelativeDocumentMoniker": "Project\\AdventureWorksC.cube",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\AdventureWorksC.cube [Conception]*",
+              "RelativeToolTip": "Project\\AdventureWorksC.cube [Conception]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T20:04:32.46Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Reseller.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Reseller.dim",
+              "RelativeDocumentMoniker": "Project\\Dim Reseller.dim",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Reseller.dim [Conception]",
+              "RelativeToolTip": "Project\\Dim Reseller.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T20:07:01.668Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Sales Territory.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Sales Territory.dim",
+              "RelativeDocumentMoniker": "Project\\Dim Sales Territory.dim",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Sales Territory.dim [Conception]",
+              "RelativeToolTip": "Project\\Dim Sales Territory.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T20:04:38.1Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Date.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Project\\Dim Date.dim",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Date.dim [Conception]*",
+              "RelativeToolTip": "Project\\Dim Date.dim [Conception]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T20:05:23.333Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Product.dim [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Product.dim",
+              "RelativeDocumentMoniker": "Project\\Dim Product.dim",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\Dim Product.dim [Conception]",
+              "RelativeToolTip": "Project\\Dim Product.dim [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T20:07:06.188Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AdventureWorksDSV.dsv [Conception]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\AdventureWorksDSV.dsv",
+              "RelativeDocumentMoniker": "Project\\AdventureWorksDSV.dsv",
+              "ToolTip": "C:\\Users\\user\\Desktop\\rt4\\bi\\Project\\Project\\AdventureWorksDSV.dsv [Conception]",
+              "RelativeToolTip": "Project\\AdventureWorksDSV.dsv [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-29T22:13:42.788Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
